@@ -1,0 +1,12 @@
+[submodule "BridgelabzPrograms"]
+	path = BridgelabzPrograms
+	url = https://github.com/SarswatiPatil/BridgelabzPrograms.git
+[submodule "CommercialDataProcessing"]
+	path = CommercialDataProcessing
+	url = https://github.com/SarswatiPatil/CommercialDataProcessing.git
+[submodule "JDBC"]
+	path = JDBC
+	url = https://github.com/SarswatiPatil/JDBC.git
+[submodule "SpringCore"]
+	path = SpringCore
+	url = https://github.com/SarswatiPatil/SpringCore.git

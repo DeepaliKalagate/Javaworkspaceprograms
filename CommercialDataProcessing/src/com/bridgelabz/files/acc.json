@@ -1,0 +1,15 @@
+{
+  "sharesList" : [ {
+    "stockSymbol" : "$",
+    "numberOfShares" : 30,
+    "timeOfTransaction" : "2019-10-17T11:35:52.610425"
+  }, {
+    "stockSymbol" : "@",
+    "numberOfShares" : 23,
+    "timeOfTransaction" : "2019-10-17T11:42:34.359018"
+  }, {
+    "stockSymbol" : "&",
+    "numberOfShares" : 12,
+    "timeOfTransaction" : "2019-10-17T14:43:10.692028"
+  } ]
+}

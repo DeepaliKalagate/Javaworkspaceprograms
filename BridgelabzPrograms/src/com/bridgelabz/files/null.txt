@@ -1,0 +1,6 @@
+FirstName   LastName    City        State       Zip         PhoneNumber 
+deepali     patil       8412989861  mumbai      th          thane       
+deepali     kalagate    9082227392  kolhapur    mh          maharashtra 
+lokesh      patil       7045026202  mumbai      th          thane       
+ganesh      kalagate    9876543212  ichalkaranjimh          maharashtra 
+Yogita      joshi       9876543212  kolhapur    mh          maharashtra 

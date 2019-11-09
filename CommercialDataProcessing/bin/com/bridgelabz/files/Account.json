@@ -1,0 +1,23 @@
+{
+  "sharesList" : [ {
+    "stockSymbol" : "!",
+    "numberOfShares" : 120,
+    "timeOfTransaction" : "2019-10-14T18:42:33.073839"
+  }, {
+    "stockSymbol" : "%",
+    "numberOfShares" : 60,
+    "timeOfTransaction" : "2019-10-14T18:42:40.366609"
+  }, {
+    "stockSymbol" : "!",
+    "numberOfShares" : 20,
+    "timeOfTransaction" : "2019-10-14T18:42:33.073839"
+  }, {
+    "stockSymbol" : "%",
+    "numberOfShares" : 60,
+    "timeOfTransaction" : "2019-10-14T18:42:40.366609"
+  }, {
+    "stockSymbol" : "@",
+    "numberOfShares" : 1900,
+    "timeOfTransaction" : "2019-10-19T15:27:45.003"
+  } ]
+}
